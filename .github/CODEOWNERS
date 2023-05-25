@@ -1,6 +1,0 @@
-# Assign ownership of .github folder to @sudipkumarmahato
-/.github/* @sudipkumarmahato
-
-
-# Assign ownership of workflows to @janedoe
-#/.github/workflows/* @sudipkumarmahato
